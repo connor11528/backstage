@@ -1,0 +1,15 @@
+# @backstage/plugin-auth-backend-module-oidc-provider
+
+## 0.1.0-next.0
+
+### Minor Changes
+
+- 5d2fcba: Created new `@backstage/plugin-auth-backend-module-oidc-provider` module package to house oidc auth provider migration.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.20.4-next.0
+  - @backstage/backend-common@0.21.0-next.0
+  - @backstage/plugin-auth-node@0.4.4-next.0
+  - @backstage/backend-plugin-api@0.6.10-next.0
